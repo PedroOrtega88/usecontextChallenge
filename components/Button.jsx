@@ -7,7 +7,7 @@ const Button = () => {
 
     return (
         <button onClick={toggleTheme} className={`${theme}-button`}>
-          Toggle Theme
+          Cambia el tema
         </button>
       );
     };
